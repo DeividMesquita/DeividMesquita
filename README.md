@@ -1,8 +1,8 @@
 ## Eae devs, tudo bem? 😄
 
-- 🔭 Hoje sou estagiario de Analista de Suporte
+- 🔭 Hoje estou estagiando na área de redes de computadores
 - 🌱 Estudando Front-end (javascript, react, angular, etc) e Redes de Computadores
-- 📫 COntate-me no email: deividsond08@gmail.com
+- 📫 Contate-me no email: deividsond08@gmail.com
 - 😄 Pronouns: Ele/Dele
 
 <div>
