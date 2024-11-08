@@ -1,6 +1,6 @@
 ## Eae devs, tudo bem? 😄
 
-- 🔭 Hoje estou estagiando na área de redes de computadores
+- 🔭 Hoje sou Jovem Aprendiz de front-end no Grupo de Comunicação O POVO
 - 🌱 Estudando Front-end (javascript, react, angular, etc) e Redes de Computadores
 - 📫 Contate-me no email: deividsond08@gmail.com
 - 😄 Pronouns: Ele/Dele
